@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightblue;
+  margin: 100px;
+  text-align: justify;
+  text-transform: uppercase;
+  text-indent: 5%;
+
+}
+.text {
+  margin: 200px;
+  padding: 200px;
+  text-align: justify;
+  
+}
+img {
+  width: 800px;
+  border-radius: 20px;
+}
